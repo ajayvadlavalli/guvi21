@@ -7,7 +7,7 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		int r,sum=0,temp;   
+          int r,sum=0,temp;   
 		int n;
 		Scanner sc=new Scanner(System.in);
 		n=sc.nextInt();
